@@ -1,59 +1,55 @@
 <p align="center">
-  <img src="banner.png" alt="Cams's Banner" width="100%">
+  <img src="banner.png" alt="Cams's Professional Banner" width="100%">
 </p>
 
-# Hi, I’m Cams! 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=45A1FF&center=true&vCenter=true&width=500&lines=Mariah+Camille;Computer+Science+Student;Aspiring+Full+Stack+Developer;Innovare+PR+Officer" alt="Typing SVG" />
+</h1>
 
-I’m a **Computer Science student at the University of San Carlos**, curious and self-motivated, eager to explore new technologies, build creative projects, and expand skills beyond the classroom. I enjoy experimenting with code, learning by doing, and sharing insights with others in the tech community.
+<p align="center">
+  <strong>Computer Science Student @ University of San Carlos</strong><br>
+  <em>Passionate about building scalable web solutions and fostering tech communities.</em>
+</p>
 
----
-
-## 🚀 About Me
-
-- 🎓 Undergraduate **BS Computer Science** student at the University of San Carlos  
-- ✍️ Self-motivated CS student passionate about learning and experimenting beyond the classroom  
-- 📱 **Public Relations Officer** of **Innovare: USC Competition Guild**  
-- 🌐 Always exploring new technologies and building creative projects
-
----
-
-## 🌱 Currently Exploring
-
-- **Full Stack Web Development**
-  - Building interactive UIs with **React**
-  - Writing scalable apps using **JavaScript** & **TypeScript**
-  - Styling responsive layouts with **Tailwind CSS**
-  - Working with relational databases like **PostgreSQL**
-  - Applying clean and maintainable code practices
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.credly.com/users/your-profile"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Certifications" /></a>
+</p>
 
 ---
 
-## 🏆 Certifications
-
-- 📜 [CISCO: Introduction to Cybersecurity](https://www.credly.com/badges/1e4bcfb2-55d6-4f3f-9887-c221b28ed194)  
-- 📜 [CISCO: CCNA – Switching, Routing, and Wireless Essentials](https://www.credly.com/badges/bfe7d4ea-fb91-4e64-826f-6012027657fe)
+### 🖋️ About Me
+I am a self-motivated **Computer Science** undergraduate dedicated to bridging the gap between complex logic and user-centric design. **Currently serving as the Public Relations Officer for Innovare: USC Competition Guild**, where I manage external communications and help grow the student developer community. I also **create skits and video content** for social media platforms like **Instagram, TikTok, and Facebook**, showcasing events, projects, and community highlights.
 
 ---
 
-## ✨ Skills & Tools
+### 🛠️ Technical Proficiency
 
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `JavaScript` `TypeScript` `Python` `Java` `C` `C#` |
+| **Frontend** | `React` `Tailwind CSS` `HTML5` `CSS3` |
+| **Backend** | `Node.js` `.NET MAUI` `PostgreSQL` |
+| **Cloud/Sec** | `Cisco Networking` `Cybersecurity Fundamentals` |
 
 ---
 
+### 🛡️ Certifications
+* **CISCO:** Introduction to Cybersecurity [View Badge](https://www.credly.com/badges/1e4bcfb2-55d6-4f3f-9887-c221b28ed194)
+* **CISCO:** CCNA – Switching, Routing, and Wireless Essentials [View Badge](https://www.credly.com/badges/bfe7d4ea-fb91-4e64-826f-6012027657fe)
+
+---
 ### 🤝 Connect with me
 <p align="left">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
-Thanks for stopping by! 🚀 Feel free to explore my projects and connect!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+</p>
