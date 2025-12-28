@@ -29,7 +29,7 @@ I am a self-motivated **Computer Science** undergraduate dedicated to bridging t
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | `JavaScript` `TypeScript` `Python` `Java` `C` `C#` |
+| **Languages** | `JavaScript` `TypeScript` `Python` `Java` `C` |
 | **Frontend** | `React` `Tailwind CSS` `HTML5` `CSS3` |
 | **Backend** | `Node.js` `.NET MAUI` `PostgreSQL` |
 | **Cloud/Sec** | `Cisco Networking` `Cybersecurity Fundamentals` |
