@@ -4,12 +4,18 @@ I’m a **Computer Science student at the University of San Carlos**, curious an
 
 ---
 
-## 📊 My GitHub Stats
+### 📈 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=decaffeinatooo&theme=radical" alt="GitHub Streak" />
+</p>
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=decaffeinatooo&theme=radical&show_icons=true&count_private=true" alt="Cams's GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=decaffeinatooo&layout=compact&theme=radical" alt="Cams's Top Languages" />
-</div>
+---
+
+### 📊 My Stats (If the images below don't load, the API is currently down!)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=decaffeinatooo&show_icons=true&theme=radical" alt="Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=decaffeinatooo&layout=compact&theme=radical" alt="Languages" height="150" />
+</p>
 
 ---
 
