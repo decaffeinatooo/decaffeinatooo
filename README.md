@@ -1,21 +1,10 @@
+<p align="center">
+  <img src="banner.png" alt="Cams's Banner" width="100%">
+</p>
+
 # Hi, I’m Cams! 👋
 
 I’m a **Computer Science student at the University of San Carlos**, curious and self-motivated, eager to explore new technologies, build creative projects, and expand skills beyond the classroom. I enjoy experimenting with code, learning by doing, and sharing insights with others in the tech community.
-
----
-
-### 📈 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=decaffeinatooo&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-### 📊 My Stats (If the images below don't load, the API is currently down!)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=decaffeinatooo&show_icons=true&theme=radical" alt="Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=decaffeinatooo&layout=compact&theme=radical" alt="Languages" height="150" />
-</p>
 
 ---
 
@@ -61,9 +50,10 @@ I’m a **Computer Science student at the University of San Carlos**, curious an
 
 ---
 
-## 📬 Get in Touch
-
-- 💼 LinkedIn: [Mariah Camille](https://www.linkedin.com/in/mariah-camille-orilla-1ba5b1253/)  
-- 📧 Email: mcaorilla@gmail.com
+### 🤝 Connect with me
+<p align="left">
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 Thanks for stopping by! 🚀 Feel free to explore my projects and connect!
