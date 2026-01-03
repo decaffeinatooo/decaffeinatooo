@@ -20,8 +20,15 @@
 
 ---
 
-### 🖋️ About Me
-I am a self-motivated **Computer Science** undergraduate dedicated to bridging the gap between complex logic and user-centric design. **Currently serving as the Public Relations Officer for Innovare: USC Competition Guild**, where I manage external communications and help grow the student developer community. I also **create skits and video content** for social media platforms like **Instagram, TikTok, and Facebook**, showcasing events, projects, and community highlights.
+## 🖋️ About Me
+
+🎓 **BS Computer Science Student**  
+💡 Turning **complex technical ideas** into **intuitive, user-friendly solutions**  
+📣 **Public Relations Officer** at **Innovare: USC Competition Guild**  
+  ↳ 🎬 Produces **video skits & digital content** for **Instagram, TikTok, and Facebook**  
+🎸 Casual Guitarist | 📸 Aspiring Photography Enthusiast  
+🌱 Introvert with a positive mindset, thriving under challenges
+
 
 ---
 
