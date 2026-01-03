@@ -8,7 +8,7 @@
 
 <p align="center">
   <strong>Computer Science Student @ University of San Carlos</strong><br>
-  <em>Passionate about building scalable web solutions and fostering tech communities.</em>
+  <em>Thoughtfully blending technical problem-solving, creativity, and community engagement.</em>
 </p>
 
 <p align="center">
